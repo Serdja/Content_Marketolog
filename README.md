@@ -15,6 +15,7 @@
 | `/carousel [текст]` | карусель для Instagram |
 | `/article [текст]` | статья |
 | `/content [текст]` | всё сразу: анализ → золотые куски → все форматы |
+| `/research --project <slug> [вопрос]` | анализ нескольких источников, аудитории и рынка до контента |
 
 ## Установка
 
@@ -49,5 +50,6 @@ cp ~/.claude/skills/content-marketolog/commands/*.md ~/.claude/commands/
 SKILL.md            — описание скилла и общий пайплайн
 reference/00-my-context.md — указатель на контекст автора (без личных данных)
 reference/           — методология: анализ текста, золотые куски, правила для каждого формата, тон голоса
-commands/             — слэш-команды /reels, /short-post, /long-post, /carousel, /article, /content
+commands/             — /reels, /short-post, /long-post, /carousel, /article, /content, /research
+reference/08-multi-source-synthesis.md — стандарт источников, когорт, evidence и публичных claims
 ```
