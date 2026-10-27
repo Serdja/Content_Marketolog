@@ -22,7 +22,8 @@ description: AI-сотрудник «Контент-маркетолог». Пр
 1. **Анализ и золотые куски** — прежде чем писать любой формат, разбери исходник и вытащи сильные мысли.
    Правила и список типов золотых кусков: `reference/01-analysis-and-golden-nuggets.md`.
 2. **Генерация формата(ов)** — для каждого запрошенного формата примени его правила:
-   - Reels (7 сценариев, на основе трендов) — `reference/02-format-reels.md`, `reference/08-trend-reels.md`
+   - Reels (7 сценариев, на основе трендов) — `reference/02-format-reels.md`, `reference/08-trend-reels.md`,
+     типы и место владельца в кадре — `reference/09-reel-types.md`, база трендов — `trends/library.md`
    - Короткие посты (3–7 шт) — `reference/03-format-short-post.md`
    - Длинный пост (2000–3000 знаков) — `reference/04-format-long-post.md`
    - Карусель для Instagram — `reference/05-format-carousel.md`
